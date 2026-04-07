@@ -629,3 +629,7 @@ ul{
   .dashboard-toolbar,.grid-4,.dashboard-kpi-grid,.confirmation-grid{grid-template-columns:1fr}
   .confirmation-grid .full{grid-column:auto}
 }
+
+
+.hidden, .confirmation-panel.hidden{display:none !important;}
+.confirmation-panel{display:block;}
